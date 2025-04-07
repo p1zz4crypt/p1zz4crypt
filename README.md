@@ -1,8 +1,6 @@
-# ¡Hola, soy Adriana Rosas!  👨🏻‍💻 &nbsp;
-
-### **Desarrolladora Front End | Exploradora de Blockchain & IA**
-
-Apasionada por construir experiencias digitales elegantes y funcionales, con un pie en el presente (React, Redux, Typescript, APIs) y otro en el futuro (Solidity, Python para Blockchain). Mi código no solo resuelve problemas, sino que busca contar historias a través de interfaces intuitivas y tecnologías disruptivas.
+|  |  |
+|-------|--------|
+| <h1>¡Hola, soy Adriana Rosas! 👩‍💻</h1><br>Apasionada por construir experiencias digitales elegantes y funcionales, con un pie en el presente (React, Redux, Typescript, APIs) y otro en el futuro (Solidity, Python para Blockchain). Mi código no solo resuelve problemas, sino que busca contar historias a través de interfaces intuitivas y tecnologías disruptivas. | <img src="https://raw.githubusercontent.com/p1zz4crypt/p1zz4crypt/main/robt.gif" width="200" style="border-radius: 100%; object-fit: cover; border: 3px solid #6e5494;"/> |
 
 ---
 
