@@ -1,5 +1,5 @@
 
-<h1>¡Hola, soy Adriana Rosas! 👩‍💻</h1><br>Apasionada por construir experiencias digitales elegantes y funcionales, con un pie en el presente (React, Redux, Typescript, APIs) y otro en el futuro (Solidity, Python para Blockchain). Mi código no solo resuelve problemas, sino que busca contar historias a través de interfaces intuitivas y tecnologías disruptivas. <br>
+<h1>¡Hola, soy Adriana Rosas! 👩‍💻</h1><br>Apasionada por construir experiencias digitales elegantes y funcionales.
 
 <br>
 
@@ -11,7 +11,7 @@
 
 ## **¿Qué me define?**
 
-- 🔮 **Diseño con propósito**: Creo que el CSS es un superpoder. Domino Tailwind, Bootstrap y GSAP, pero siempre dejo espacio para la creatividad con soluciones custom.
+- 🔮 **Diseño con propósito**: Uso de Tailwind, Bootstrap y GSAP, pero siempre dejo espacio para la creatividad con soluciones custom.
 - ⚡ **JavaScript en todas sus formas**: Desde Vanilla JS hasta frameworks modernos, disfruto encontrar la herramienta perfecta para cada proyecto.
 - ⛓️ **Blockchain como aliada**: Más que una tecnología, una filosofía. He contribuido a implementar redes descentralizadas y me encanta su potencial para transformar industrias.
 - 🤖 **IA y automatización**: Autodidacta por naturaleza, siempre explorando cómo integrar herramientas de IA en flujos de desarrollo.
