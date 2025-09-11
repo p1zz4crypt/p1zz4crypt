@@ -1,5 +1,5 @@
 
-<h1>¡Hola, soy Adriana Rosas! 👩‍💻</h1><br>Apasionada por construir experiencias digitales elegantes y funcionales.
+<h1>¡Hola, soy Adriana Rosas! 👩‍💻</h1><br>
 
 <br>
 
@@ -9,41 +9,14 @@
 
 ---
 
-## **¿Qué me define?**
-
-- 🔮 **Diseño con propósito**: Uso de Tailwind, Bootstrap y GSAP, pero siempre dejo espacio para la creatividad con soluciones custom.
-- ⚡ **JavaScript en todas sus formas**: Desde Vanilla JS hasta frameworks modernos, disfruto encontrar la herramienta perfecta para cada proyecto.
-- ⛓️ **Blockchain como aliada**: Más que una tecnología, una filosofía. He contribuido a implementar redes descentralizadas y me encanta su potencial para transformar industrias.
-- 🤖 **IA y automatización**: Autodidacta por naturaleza, siempre explorando cómo integrar herramientas de IA en flujos de desarrollo.
-
----
-
-## **Proyectos recientes**
-  
-- **"Smart Contracts para auditorías"**: Diseñé contratos inteligentes en Solidity para transparentar procesos financieros en Grupo Salinas.  
-- **"De Vanilla JS a React: Migración sin dolor"**: Me encargué de la actualización de la plataforma del área de Producto y Estrategia, la cual contiene Agentes IA y Blockchain tools.
-
----
-
-## **Colaboración abierta**
-
-Creo en el código como un esfuerzo colectivo. Si buscas:  
-- 👀 Un par de ojos frescos para tu repositorio.  
-- 🛠️ Ayuda con integraciones API/Blockchain.  
-- 💡 UI para tu proyecto web.  
-
-¡Hablemos! Siempre estoy abierta a conversaciones interesantes. 🚀 
-
----
-
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; JavaScript | TypeScript | ECMAScript | NodeJS | ReactJS | Vue | Python
+- 🌐 &nbsp; JavaScript | TypeScript | ECMAScript | NodeJS | ReactJS | Vue | 
 - 🌐 &nbsp; HTML | CSS  | Bootstrap | Tailwind | GSAP
-- 🛢 &nbsp;  | MySQL | SQL Server
-- 🔧 &nbsp; Git | Github | Gitlab | Github Actions | Vscode | 
-- ⚡ &nbsp; Solidity  | Metamask | Fireblocks | EVM
-- 🖥 &nbsp; Illustrator| Photoshop | Figma | Adobe XD | IA
+- 🛢 &nbsp;  | GraphQL | SQL Server
+- 🔧 &nbsp; Git | Github | Gitlab  | Vscode | 
+- ⚡ &nbsp; Solidity  | Metamask | EVM
+- 🖥 &nbsp; Illustrator| Photoshop | Figma | Adobe XD | IA 
   
 ---
 
